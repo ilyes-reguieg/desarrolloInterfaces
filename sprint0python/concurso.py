@@ -9,8 +9,8 @@ else:
     notaFinal = notaFinal - 5
 
     
-pregunta2 = input('Cual de las siguientes tecnologias no se considera como lenguaje de programacion? \n a): Html \n b): Java \n c): Python \n')
-if(pregunta2 == 'a'):
+pregunta1 = input('Cual de las siguientes tecnologias no se considera como lenguaje de programacion? \n a): Html \n b): Java \n c): Python \n')
+if(pregunta1 == 'a'):
     print('Respuesta correcta')
     notaFinal = notaFinal + 10
 else:

@@ -1,3 +1,4 @@
-from fibonacci import funcion_fibonacci
+from math import *
+from fibonacci2 import *
 
-funcion_fibonacci()
+funcion_fibonacci2()
